@@ -1,0 +1,26 @@
+{
+  "name": "constructed-hangman",
+  "version": "1.0.0",
+  "description": "a short command line hangman game",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lockn008/constructed-hangman.git"
+  },
+  "keywords": [
+    "gmae"
+  ],
+  "author": "Lockn008",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lockn008/constructed-hangman/issues"
+  },
+  "homepage": "https://github.com/Lockn008/constructed-hangman#readme"
+}
